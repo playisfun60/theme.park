@@ -19,4 +19,7 @@
     --div-background-color-15: rgba(0, 255, 111, 0.03);
     --text-shadow: 0 0 8px;
     --box-shadow: 0 0 15px;
+    --body-before: none;
+    --body-after: none;
+    --body-animation: none;
 }
