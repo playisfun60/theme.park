@@ -22,5 +22,5 @@
     --body-before: none;
     --body-after: none;
     --body-animation: none;
-    --loginbox-background-color: transparent;
+    --loginbox-background-color: rgba(0, 255, 111, 0.7);
 }
