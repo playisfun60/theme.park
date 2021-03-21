@@ -1,7 +1,7 @@
 @import url("https://playisfun60.github.io/theme.park/CSS/addons/unraid/login-page/galaxynet/universe_base.css");
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(0, 255, 119, 0.1) 0,rgba(0,255,119,0) 100%) center center/cover no-repeat fixed, 
-    url(https://playisfun60.github.io/theme.park/CSS/addons/unraid/login-page/galaxynet/wallpaper/hallway.jpg) center center/cover no-repeat fixed;
+    url(https://wonderfulengineering.com/wp-content/uploads/2014/07/universe-backgrounds1.jpg) center center/cover no-repeat fixed;
     --logo: url(https://playisfun60.github.io/theme.park/CSS/addons/unraid/login-page/galaxynet/logo/wings_green.png) center no-repeat;
     --text-color: #37f592;
     --input-color: #37f592;
