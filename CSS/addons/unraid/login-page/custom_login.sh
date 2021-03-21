@@ -1,6 +1,6 @@
 #!/bin/bash
-TYPE="retro-terminal"
-THEME="green.css"
+TYPE="galaxynet"
+THEME="universe.css"
 DOMAIN="playisfun60.github.io"
 ADD_JS="true"
 JS="custom_text_header.js"
